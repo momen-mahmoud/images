@@ -1,4 +1,6 @@
 #images
+
+
 -i just used PIL library is used to work with images and shutil for file operations and csv is used for reading and writing CSV files
 
 
